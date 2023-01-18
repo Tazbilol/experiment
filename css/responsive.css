@@ -1,0 +1,116 @@
+/*css media queries start*/
+@media (min-width: 279px) and (max-width: 319px){
+/*css start*/
+/*css end*/
+}
+@media (min-width: 320px) and (max-width: 480px){
+/*css start*/
+.container{
+width: 90%;
+margin: 0px auto;
+}
+.row{
+width: 100%;
+float: left;
+}
+.col-12{
+width: 100%;
+float: left;
+}
+.col-6{
+width: 100%;
+float: left;
+}
+.col-4{
+width: 100%;
+float: left;
+}
+.logo{
+width: 100%;
+display: block;
+text-align: center;
+}
+.header .navbar{
+width: 100%;
+display: block;
+text-align: center;
+}
+.header .navbar li a{
+font-size: 12px;
+font-weight: 400;
+text-transform: capitalize;
+margin: 20px 0px 0px 10px;
+color: #0F2656;
+text-decoration: none;
+transition: 0.5s;
+}
+.banner h1 {
+font-size: 35px;
+line-height: 1.2em;
+color: #0F2656;
+font-weight: 701;
+margin: -20px 0px 9px;
+}
+.features{
+width: 100%;
+float: left;
+padding: 1px 0px 31px 0px;
+}
+.features .inner-feature{
+width: 75%;
+margin: 15px 15px;
+padding: 40px 30px;
+}
+
+.successfull .left-box{
+	width: 100%;
+float: left;
+text-align: center;
+}
+.successfull .left-box h1{
+	font-size: 45px;
+line-height: 1.2em;
+color: #F15767;
+font-weight: 700;
+margin: 0px 14px 5px 0px;
+}
+.successfull .left-box p{
+	font-size: 13px;
+line-height: 1.5em;
+color: #0F2656;
+font-weight: 400;
+margin: 0px 17px 5px 0px;
+}
+.successfull .right-box h1{
+	font-size: 35px;
+line-height: 1.0em;
+color: #0F2656;
+font-weight: 700;
+margin: 6px 0px 5px 30px;
+}
+
+
+
+/*css end*/
+}
+
+
+
+
+
+@media (min-width: 481px) and (max-width: 767px){
+/*css start*/
+/*css end*/
+}
+
+
+
+
+
+
+
+@media (min-width: 768px) and (max-width: 1024px){
+/*css start*/
+/*css end*/
+}
+/*css media queries end*/
